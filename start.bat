@@ -1,0 +1,2 @@
+node hi.js
+pause
